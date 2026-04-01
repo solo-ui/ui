@@ -1,6 +1,10 @@
 import { defineComponent, h } from 'vue'
 
 /**
+ * Προσωρινό Vue wrapper για το React prototype Flow_Os ERP που έστειλες.
+ *
+ * Το snippet που μοιράστηκες είναι React/JSX και αποθηκεύτηκε στο
+ * `playground/app/components/FlowOsApp.user-snippet.jsx` για μεταφορά/μετατροπή.
  * Placeholder wrapper for the user-provided React Flow_Os ERP prototype.
  *
  * The snippet shared in chat is React/JSX and is preserved in
